@@ -1,0 +1,6 @@
+project:
+    name: airflow-ass
+postgres:
+    port: 5435
+webserver:
+    port: 8080
